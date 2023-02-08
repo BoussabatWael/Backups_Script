@@ -1,5 +1,5 @@
 # Buckups_Script
-In this repository, you will get an advance backup script with mutiple options. This script allows you to backup databases, files, folders or entire server on local and upload to FTP, SFTP and S3 bucket.
+In this repository, you will get an advance backup script with mutiple options. This script allows you to backup databases, files, folders or entire server on local and upload to FTP, SFTP and S3 bucket, and create ogs report for each backup operation.
 
 # Clone this repository
 Clone this repository under /etc directory.
